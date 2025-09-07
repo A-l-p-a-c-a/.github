@@ -12,8 +12,8 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 >wrapped in Python.<br><br>
 
 
-![banner](images/IMG_20250826_013424_671.jpg)<br><br>
-
+![banner]
+<img src= './src/images/IMG_20250826_013424_671.jpg> <br><br>
 
 <h2 align="center">ⓂMOTTO</h2>
 <h2 align="center"“I don’t run your day. I ruin it.”</h2>
