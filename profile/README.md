@@ -14,7 +14,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ![banner]
 
-<img src=  './src/images/IMG_20250826_013424_671.jpg'> <br><br>
+<img src='./src/images/IMG_20250826_013424_671.jpg'> <br><br>
 
 <h2 align="center">ⓂMOTTO</h2>
 <h2 align="center"“I don’t run your day. I ruin it.”</h2>
