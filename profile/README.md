@@ -1,4 +1,8 @@
-<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
+<!--<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>-->
+
+<h2 align="center">
+  <marquee>🌱 🦙A.L.P.A.C.A.🦙</marquee>
+</h2>
 
 ###A.L.P.A.C.A. =
 Artificial Language Processing And Conversational Asshole
