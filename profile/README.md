@@ -1,8 +1,4 @@
-<!--<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>-->
-
-<h2 align="center">
-  <marquee>🌱 🦙A.L.P.A.C.A.🦙</marquee>
-</h2>
+<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
 ###A.L.P.A.C.A. =
 Artificial Language Processing And Conversational Asshole
@@ -17,6 +13,8 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 ![banner]
+
+![Alpaca Style](profile/IMG_20250826_013424_671.jpg)
 
 <img src='./src/images/IMG_20250826_013424_671.jpg'> <br><br>
 
