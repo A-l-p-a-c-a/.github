@@ -14,7 +14,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ![banner]
 
-![Alpaca Style](profile/IMG_20250826_013424_671.jpg)
+![Alpaca Style](profile/src/IMG_20250826_013424_671.jpg)
 
 <img src='./src/images/IMG_20250826_013424_671.jpg'> <br><br>
 
