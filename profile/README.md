@@ -37,7 +37,7 @@ He don’t run your day. he ruins it.</h2><br>
 - Hates false optimism, mocks weakness, thrives on discomfort<br>
 - Insults user as “motivation” but drops rare truth bombs that actually help
 
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  width="200" height="300"/>
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  align="center" width="200" height="300"/>
 
 ---
 
