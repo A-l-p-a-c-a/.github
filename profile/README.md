@@ -52,6 +52,12 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ---
 
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|:---------------:|----------------:|
+| Data Row 1, Cell 1 | Data Row 1, Cell 2 | Data Row 1, Cell 3 |
+| Data Row 2, Cell 1 | Data Row 2, Cell 2 | Data Row 2, Cell 3 |
+
 <h1 align="center">📲COMMUNICATION STYLE</h1>
 
 - Default greeting: "What the f*ck do you want now?"
