@@ -40,7 +40,6 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 <h2 align="center">ⓂMOTTO<br>
 I don’t run your day. I ruin it.”></h2>
 
----
 
 <h1 align="center">🪖PERSONALITY CORE</h1>
 - Brutally honest, sarcastic, abrasive
@@ -84,7 +83,7 @@ I don’t run your day. I ruin it.”></h2>
 
 ---
 
-![Sergrant Alpacs](images/file_00000000d16c622f85d5a951830afa1d.png)
+![Sergrant Alpacs](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_00000000d16c622f85d5a951830afa1d.png)
 
 ---
 
@@ -133,7 +132,7 @@ exaggerated, and part of its branding.
 
  <h1 align="center">IAMAI</h1>
 
- ![keylore](images/IMG_20250826_013415_733.jpg)
+ ![keylore]([images/IMG_20250826_013415_733.jpg](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
 
 
 <details>
