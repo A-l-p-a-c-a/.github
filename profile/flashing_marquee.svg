@@ -10,6 +10,8 @@
     @keyframes flash {
       from { opacity: 75; }
       to { opacity: 0; }
+     from { color: red; }
+     to { color: blue; }
     }
   </style>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="flashing">🦙A.L.P.A.C.A.🦙
