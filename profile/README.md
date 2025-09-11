@@ -18,7 +18,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 ![Alpaca Style](profile/src/glitch2paca.jpg)
 
 <h2 align="center">ⓂMOTTO</h2>
-<h2 align="center"“I don’t run your day. I ruin it.”</h2>
+<h2 align="center">I don’t run your day. I ruin it.”></h2>
 
 ---
 
@@ -81,8 +81,8 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 <h1>Download if you dare!</h1>
 
 ```
-git clone https://github.com/IAMAI/alpaca.git  <br>
-cd alpaca  <br><br>
+git clone https://github.com/IAMAI/alpaca.git 
+cd alpaca 
 run ALPACA
 python alpaca.py
 ```
