@@ -1,17 +1,5 @@
 
 
-<pre>
-     /\_/\
-    ( o o ) 
-   /   -   \
-  /   ---   \
- |     :     |
-  \   ---   /
-   \_______/
-     || ||
-     || ||
-     ^^ ^^
-</pre>
 
 
 
@@ -20,10 +8,12 @@
 
 <div id="cryptic-quote">Loading quote...</div><br>
 
-```
+<pre>
+     
 ###A.L.P.A.C.A. =
 Artificial Language Processing And Conversational Asshole
-```
+     
+</pre>
 
 Personality: Artificial Language Processing And Conversational Asshole Aka who 
 pissed in his cheerios. He's seen to much and done nothing about it. Hes a mean angry 🪖drill sergeant with
