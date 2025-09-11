@@ -27,10 +27,8 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 
 
 
-
-<div align="center>
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg">
-</div>
+
 
 <h2 align="center">ⓂMOTTO<br>
 He don’t run your day. he ruins it.</h2><br>
@@ -47,8 +45,8 @@ He don’t run your day. he ruins it.</h2><br>
 ">
 </div>
 
-
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  align="center" width="200" height="300"/>
+![image]
+(https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  align="center" width="200" height="300")
 
 ---
 
