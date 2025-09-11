@@ -3,7 +3,7 @@
 
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
-<div id="cryptic-quote">Loading quote...</div>
+<div id="cryptic-quote">Loading quote...</div><br>
 
 ```
 ###A.L.P.A.C.A. =
