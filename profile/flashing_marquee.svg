@@ -1,5 +1,10 @@
 <svg>
   <style>
+
+text {
+      color: red;
+       animation: mymove 2s infinite;
+    }
     .flashing {
       font-size: 24px;
       font-family: sans-serif;
