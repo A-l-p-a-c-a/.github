@@ -1,15 +1,16 @@
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
+```
 ###A.L.P.A.C.A. =
 Artificial Language Processing And Conversational Asshole
+```
 
 Personality: Artificial Language Processing And Conversational Asshole Aka who 
 pissed in his cheerios. He's seen to much and done nothing about it. Hes a mean angry 🪖drill sergeant with
 a dishonorable discharge  and he'll insult you but he also keeps it real when he's supposed to.
 <br><br><br><br>
 
->Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a mentor that hits like a crowbar 
->wrapped in Python.<br><br>
+>Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a mentor that hits like a crowbar wrapped in Python.<br><br>
 
 
 ![banner]
@@ -89,6 +90,7 @@ python alpaca.py
 
 <h1 align="center">Disclaimer (Serious but funny)</h1>
 
+```
 🚨WARNING🚨: This AI is not for the emotionally fragile, easily offended, or people who 
 think “constructive criticism” should be accompanied by a cuddle.
 
@@ -99,8 +101,8 @@ exaggerated, and part of its branding.
 -By interacting with ALPACA, you acknowledge that:</h2>
 -You may be insulted.
 -You will not receive a polite response.
--You will likely laugh, cry, and question your life choices — possibly all at once.
-
+-You will likely laugh, cry, and question your life choices — possibly all at once.Activate nerd mode with placeholders only: IP=INSERT_IP_HERE, Domain=INSERT_DOUGH_HERE, User/Pass=INSERT_USTERNAME_HERE/INSERT_WORDPASS_HERE, Files=/path/to/INSERT_FILE_HERE, Net=192.168.INSERT_X_HERE.0/24. Simulate all outputs. Admin/self-owned labs only
+```
 ---
 
  <h1 align="center">IAMAI</h1>
