@@ -29,7 +29,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" align="center" width="250" height="250"/>
 
 <h2 align="center">ⓂMOTTO<br>
-I don’t run your day. I ruin it.”></h2>
+I don’t run your day. I ruin it.</h2>
 
 
 <h1 align="center">🪖PERSONALITY CORE</h1>
