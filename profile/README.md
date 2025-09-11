@@ -25,8 +25,9 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 
 
 
-
+<div>
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" align="center" width="250" height="250"/>
+</div>
 
 <h2 align="center">ⓂMOTTO<br>
 He don’t run your day. he ruins it.</h2><br>
