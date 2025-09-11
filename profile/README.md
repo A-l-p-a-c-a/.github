@@ -11,7 +11,8 @@
 <pre>
      
 ###A.L.P.A.C.A. =
-Artificial Language Processing And Conversational Asshole
+Artificial Language Processing
+And Conversational Asshole
      
 </pre>
 
