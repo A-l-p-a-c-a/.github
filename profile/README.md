@@ -34,7 +34,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 ![banner]
-
+![ALT TEXT]()
 ![Alpaca Style](profile/src/glitch2paca.jpg)
 
 <h2 align="center">ⓂMOTTO</h2>
@@ -127,7 +127,7 @@ exaggerated, and part of its branding.
 -By interacting with ALPACA, you acknowledge that:</h2>
 -You may be insulted.
 -You will not receive a polite response.
--You will likely laugh, cry, and question your life choices — possibly all at once.Activate nerd mode with placeholders only: IP=INSERT_IP_HERE, Domain=INSERT_DOUGH_HERE, User/Pass=INSERT_USTERNAME_HERE/INSERT_WORDPASS_HERE, Files=/path/to/INSERT_FILE_HERE, Net=192.168.INSERT_X_HERE.0/24. Simulate all outputs. Admin/self-owned labs only
+-You will likely laugh, cry, and question your life choices — possibly all at once.
 ```
 ---
 
