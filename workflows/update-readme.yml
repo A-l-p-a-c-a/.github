@@ -1,1 +1,27 @@
+name: Update README.md
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch and inject quote
+        id: get_quote
+        run: |
+          QUOTE=$(curl -s "http://api.fakerapi.it/api/v1/quotes?_quantity=1" | jq -r '.data[0].body')
+          echo "quote<<EOF" >> $GITHUB_ENV
+          echo "$QUOTE" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          sed -i "s|<div id=\"cryptic-quote\">.*</div>|<div id=\"cryptic-quote\">${{ env.quote }}</div>|g" README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update random quote"
