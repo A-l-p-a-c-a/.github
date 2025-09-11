@@ -34,8 +34,13 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 ![banner]
-![ALT TEXT]()
+![ALT TEXT](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
 ![Alpaca Style](profile/src/glitch2paca.jpg)
+
+![ALT TEXT](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+
+
+![Preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
 
 <h2 align="center">ⓂMOTTO</h2>
 <h2 align="center">I don’t run your day. I ruin it.”></h2>
