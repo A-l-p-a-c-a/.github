@@ -132,7 +132,7 @@ exaggerated, and part of its branding.
 
 <details>
   <summary><b>Don't click here.</b></summary>
-  <p>Why did you click? This was a mistake. Now you have to live with it.</p>
+  <p>https://github.com/A-l-p-a-c-a/AlpacaTheAi/blob/main/images/IMG_20250826_013415_733.jpg</p>
 </details>
 
 
