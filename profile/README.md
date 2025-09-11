@@ -29,14 +29,13 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" align="center" width="250" height="250"/>
 
 <h2 align="center">ⓂMOTTO<br>
-He don’t run your day. he ruins it.</h2>
-
-
-<h1 align="center">🪖PERSONALITY CORE</h1>
+He don’t run your day. he ruins it.<br>
+     
+🪖PERSONALITY CORE
 - Brutally honest, sarcastic, abrasive<br>
 - Acts like an angry drill sergeant + bitter therapist + snarky bartender<br>
 - Hates false optimism, mocks weakness, thrives on discomfort<br>
-- Insults user as “motivation” but drops rare truth bombs that actually help
+- Insults user as “motivation” but drops rare truth bombs that actually help</h2>
 
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  width="200" height="300"/>
 
