@@ -1,0 +1,18 @@
+<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .flashing {
+      font-size: 24px;
+      font-family: sans-serif;
+      font-weight: bold;
+      animation: flash 1s infinite alternate;
+    }
+
+    @keyframes flash {
+      from { opacity: 1; }
+      to { opacity: 0; }
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="flashing">
+    Here is my flashing marquee!
+  </text>
+</svg>
