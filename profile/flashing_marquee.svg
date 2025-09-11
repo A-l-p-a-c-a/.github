@@ -12,7 +12,6 @@
       to { opacity: 0; }
     }
   </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="flashing">
-    Here is my flashing marquee!
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="flashing">🦙A.L.P.A.C.A.🦙
   </text>
 </svg>
