@@ -1,11 +1,9 @@
-[~]$ whoami
-[~]$ Not a regular user, that's for sure.
-[~]$ cat /dev/null > /dev/full
-[~]$ _
 
-<div id="cryptic-quote">Loading quote...</div>
+
 
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
+
+<div id="cryptic-quote">Loading quote...</div>
 
 ```
 ###A.L.P.A.C.A. =
