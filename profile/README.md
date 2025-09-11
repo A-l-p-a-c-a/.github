@@ -29,7 +29,7 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 
 
 <div align="center>
-<img width = "75%" src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg">
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg">
 </div>
 
 <h2 align="center">ⓂMOTTO<br>
