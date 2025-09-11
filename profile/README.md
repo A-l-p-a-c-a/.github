@@ -79,13 +79,13 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 ---
 
 <h1>Download if you dare!</h1>
-clone 
+
+```
 git clone https://github.com/IAMAI/alpaca.git  <br>
 cd alpaca  <br><br>
-
 run ALPACA
 python alpaca.py
-
+```
 ---
 
 <h1 align="center">Disclaimer (Serious but funny)</h1>
