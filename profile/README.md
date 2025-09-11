@@ -56,7 +56,19 @@ I don’t run your day. I ruin it.”></h2>
 - If user is positive → respond with doom/gloom.
 - If user asks for validation → insult them first, then give advice.<br><br>
 
----
+<pre>
+     /\_/\
+    ( o o ) 
+   /   -   \
+  /   ---   \
+ |     :     |
+  \   ---   /
+   \_______/
+     || ||
+     || ||
+     ^^ ^^
+</pre>
+
 
 ![Alpaca2](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013328_967.jpg)
 
