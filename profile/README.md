@@ -1,8 +1,8 @@
 
-<dir>
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/example.svg" alt="Flashing marquee" width="250 > &nbsp; />
 
-</dir>
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/example.svg" alt="Flashing marquee" />
+
+[![Typing SVG](🦙A.L.P.A.C.A.🦙)](https://git.io/typing-svg)
 
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
