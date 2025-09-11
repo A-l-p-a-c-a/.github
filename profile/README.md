@@ -37,8 +37,8 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ![Preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
 
-<h2 align="center">ⓂMOTTO</h2>
-<h2 align="center">I don’t run your day. I ruin it.”></h2>
+<h2 align="center">ⓂMOTTO<br>
+I don’t run your day. I ruin it.”></h2>
 
 ---
 
@@ -138,7 +138,9 @@ exaggerated, and part of its branding.
 
 <details>
   <summary><b>Don't click here.</b></summary>
-  <p>https://github.com/A-l-p-a-c-a/AlpacaTheAi/blob/main/images/IMG_20250826_013415_733.jpg</p>
+  <p>
+![preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+  </p>
 </details>
 
 
