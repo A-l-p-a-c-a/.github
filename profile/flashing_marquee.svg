@@ -8,8 +8,8 @@
     }
 
     @keyframes flash {
-      from { opacity: 75; }
-      to { opacity: 0; }
+      <!--from { opacity: 75; }
+      to { opacity: 0; }-->
      from { color: red; }
      to { color: blue; }
     }
