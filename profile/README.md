@@ -43,7 +43,8 @@ He don’t run your day. he ruins it.</h2><br>
 
 
 <div align="center">
-  <img width = "33%" src="https://i.imgur.com/8BgVXcY.png">
+  <img width = "33%" src="hhttps://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+">
 </div>
 
 
