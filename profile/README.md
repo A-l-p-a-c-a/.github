@@ -25,13 +25,11 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 
 
 
-<div align="center">
-  <img width = "33%" src="https://i.imgur.com/8BgVXcY.png">
-</div>
+
 
 
 <div align="center>
-<img width="250" height="250" src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" width="250" height="250">
+<img width="250" height="250" src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg">
 </div>
 
 <h2 align="center">ⓂMOTTO<br>
