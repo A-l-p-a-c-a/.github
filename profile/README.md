@@ -129,6 +129,13 @@ exaggerated, and part of its branding.
 
  ![keylore](images/IMG_20250826_013415_733.jpg)
 
+
+<details>
+  <summary><b>Don't click here.</b></summary>
+  <p>Why did you click? This was a mistake. Now you have to live with it.</p>
+</details>
+
+
 @2023 🦙ALPACA INDUSTRIES. ALL RIGHTS RESERVED. SUCKIT.
 
 ---
