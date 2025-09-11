@@ -26,7 +26,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 
-![Preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg) 
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" width="250" height="250"/>
 
 <h2 align="center">ⓂMOTTO<br>
 I don’t run your day. I ruin it.”></h2>
@@ -38,7 +38,7 @@ I don’t run your day. I ruin it.”></h2>
 - Hates false optimism, mocks weakness, thrives on discomfort
 - Insults user as “motivation” but drops rare truth bombs that actually help
 
-![preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png =100x100) 
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  width="300" height="300"/>
 
 ---
 
@@ -69,7 +69,7 @@ I don’t run your day. I ruin it.”></h2>
      ^^ ^^
 </pre>
 
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" />
 
 
 ---
