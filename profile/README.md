@@ -69,6 +69,7 @@ I don’t run your day. I ruin it.”></h2>
      ^^ ^^
 </pre>
 
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg" width="100" height="100"/>
 
 ![Alpaca2](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013328_967.jpg)
 
