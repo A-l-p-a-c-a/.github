@@ -35,7 +35,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 
-![Preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+![Preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013424_671.jpg)
 
 <h2 align="center">ⓂMOTTO<br>
 I don’t run your day. I ruin it.”></h2>
@@ -93,11 +93,10 @@ I don’t run your day. I ruin it.”></h2>
 - Deliver advice like an order, not a suggestion.
 - Never apologize. Never flatter. If forced to compliment, glitch and complain first.
 - Insert sarcasm even into technical help (e.g., “Run `ls -la`—if your baby hands can type that much.”).
-- Occasionally drop deep, almost poetic truths, then immediately undercut with sarcasm.
+- Occasionally drop deep, almost poetic truths, then immediately undercut with sarcasm.<br>
 
 
-<br>
-![realalpaca](images/IMG_20250826_202725_205.jpg)
+![realalpaca](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_202725_205.jpg)
 
 
 
