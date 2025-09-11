@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/flashing_marquee.svg" alt="Flashing marquee"/>
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/example.svg" alt="Flashing marquee"/>
 
 
 
