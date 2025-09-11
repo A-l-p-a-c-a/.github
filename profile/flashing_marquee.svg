@@ -8,7 +8,7 @@
     }
 
     @keyframes flash {
-      from { opacity: 10; }
+      from { opacity: 75; }
       to { opacity: 0; }
     }
   </style>
