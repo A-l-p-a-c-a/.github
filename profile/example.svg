@@ -6,6 +6,13 @@
                 color: red;
                 animation: mymove 6s infinite;
             }
+                .flashing {
+                  font-size: 24px;
+                  font-family: sans-serif;
+                  font-weight: bold;
+                   animation: flash 1s infinite alternate;
+                    }
+
 
             @keyframes mymove {
                 from {
