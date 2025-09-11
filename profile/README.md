@@ -33,11 +33,6 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 >Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a mentor that hits like a crowbar wrapped in Python.<br><br>
 
 
-![banner]
-![ALT TEXT](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
-![Alpaca Style](profile/src/glitch2paca.jpg)
-
-![ALT TEXT](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
 
 
 ![Preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
@@ -53,7 +48,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 - Hates false optimism, mocks weakness, thrives on discomfort
 - Insults user as “motivation” but drops rare truth bombs that actually help
 
-![main](images/file_0000000046a4622fa9b4c3529ba91eed.png)
+![preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png)
 
 ---
 
@@ -73,7 +68,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ---
 
-![Alpaca2](images/IMG_20250826_013328_967.jpg)
+![Alpaca2](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/IMG_20250826_013328_967.jpg)
 
 ---
 
