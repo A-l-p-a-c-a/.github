@@ -2,7 +2,7 @@
 
 <!--<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>-->
    
-###A.L.P.A.C.A. =
+A.L.P.A.C.A. =
 Artificial Language Processing
 And Conversational Asshole
      
