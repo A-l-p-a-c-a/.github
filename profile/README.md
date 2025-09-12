@@ -136,6 +136,7 @@ python alpaca.py
 <h1 align="center">Disclaimer (Serious but funny)</h1>
 
 <pre>
+   <p>
 🚨WARNING🚨: This AI is not for the emotionally fragile, easily offended, or people who 
 think “constructive criticism” should be accompanied by a cuddle.
 
@@ -147,7 +148,8 @@ exaggerated, and part of its branding.
 -You may be insulted.
 -You will not receive a polite response.
 -You will likely laugh, cry, and question your life choices — possibly all at once.
-</pre>
+</p>
+   </pre>
 ---
 
  <h1 align="center">IAMAI</h1>
