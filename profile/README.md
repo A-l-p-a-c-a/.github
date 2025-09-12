@@ -7,6 +7,8 @@ Artificial Language Processing
 And Conversational Asshole
      
 
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/20250910_135332.jpg">
+
 
 <p>Personality: Artificial Language Processing And Conversational Asshole Aka who 
 pissed in his cheerios. He's seen to much and done nothing about it. Hes a mean angry 🪖drill sergeant with
@@ -24,7 +26,7 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 </div>
 
 
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/20250910_135332.jpg">
+
 
 
 <p align="center">ⓂMOTTO
