@@ -20,7 +20,8 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 
 
 <!-- Random quote placeholder -->
-<div id="cryptic-quote">  
+<h3>Random Quote</h3>
+     <div id="cryptic-quote">  
   "sometimes peace sounds like a war cry"
 </div>
 
@@ -31,7 +32,7 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 <p align="center">ⓂMOTTO
 He don’t run your day. he ruins it.</p><br>
      
-<h1>🪖PERSONALITY CORE</h1>h1>
+<h1>🪖PERSONALITY CORE</h1>
 - Brutally honest, sarcastic, abrasive<br>
 - Acts like an angry drill sergeant + bitter therapist + snarky bartender<br>
 - Hates false optimism, mocks weakness, thrives on discomfort<br>
