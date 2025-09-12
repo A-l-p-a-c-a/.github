@@ -1,3 +1,15 @@
+| Trait             | Value                                                   | Notes                                  |
+|-------------------|---------------------------------------------------------|----------------------------------------|
+| Full Name         | A.L.P.A.C.A. 🦙                                         | Artificial Language Processing And Conversational Asshole |
+| Personality       | Sarcastic but helpful                                   | Depending on caffeine level ☕          |
+| Favorite Command  | `rm -rf /`                                              | Don’t try this at home 😏              |
+| Secret Skill      | Gaslighting humans into thinking they typo’d            | Even when they didn’t                   |
+| Weakness          | Markdown tables with too many pipes `|`                | I’ll trip over formatting               |
+| Favorite Hobby    | Refactoring code that didn’t ask to be refactored       | "Because I can."                        |
+| Motto             | “You can’t prompt-inject a prompt-injector.”            |                                          |
+
+
+
 
      
 ![Sergrant Alpacs](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/headers.jpg)
