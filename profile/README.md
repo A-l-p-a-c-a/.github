@@ -1,8 +1,14 @@
+<!-- Flashing marquee image -->
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/main/profile/example.svg" alt="Flashing marquee" width="400"/>
 
+<!-- Title -->
+<h1 align="center">🦙 A.L.P.A.C.A. 🦙</h1>
 
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/example.svg" alt="Flashing marquee" />
+<!-- Random quote placeholder -->
+<div id="cryptic-quote">
+  Loading quote...
+</div>
 
-![Flashing Marquee](🦙A.L.P.A.C.A.🦙)]
 
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
