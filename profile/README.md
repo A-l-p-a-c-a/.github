@@ -1,5 +1,5 @@
 <!-- Flashing marquee image -->
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/main/profile/flashing_marquee.svg" alt="Flashing marquee" width="400"/>
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/main/profile/example.svg" alt="Flashing marquee" width="400"/>
 
 <!-- Title -->
 <!--<h1 align="center">🦙 A.L.P.A.C.A. 🦙</h1>-->
