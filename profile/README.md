@@ -1,18 +1,14 @@
 <!-- Flashing marquee image -->
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/main/profile/example.svg" alt="Flashing marquee" width="400"/>
+<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/main/profile/flashing.svg" alt="Flashing marquee" width="400"/>
 
 <!-- Title -->
 <h1 align="center">🦙 A.L.P.A.C.A. 🦙</h1>
 
-<!-- Random quote placeholder -->
-<div id="cryptic-quote">
-  Loading quote...
-</div>
 
 
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
-<div id="cryptic-quote">Loading quote...</div><br>
+
 
 <pre>
      
@@ -31,6 +27,10 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 
 
 
+<!-- Random quote placeholder -->
+<div id="cryptic-quote">  
+  "sometimes peace sounds like a war cry"
+</div>
 
 
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/20250910_135332.jpg">
