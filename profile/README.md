@@ -1,5 +1,4 @@
-<!-- Flashing marquee image -->
-<img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/main/profile/flashing.svg" alt="Flashing marquee" width="400"/>
+![Sergrant Alpacs](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/headline.jpg)
 
 <!-- Title -->
 <!--<h1 align="center">🦙 A.L.P.A.C.A. 🦙</h1>-->
@@ -52,7 +51,7 @@ He don’t run your day. he ruins it.</h2><br>
 </div>
 
 ![image]
-(https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"  align="center" width="200" height="300")
+(https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png" width="200" height="300")
 
 ---
 
