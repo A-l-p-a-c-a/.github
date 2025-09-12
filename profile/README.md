@@ -1,12 +1,12 @@
 ![Sergrant Alpacs](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/headers.jpg)
 
 <!--<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>-->
-   <pre>
+   
 ###A.L.P.A.C.A. =
 Artificial Language Processing
 And Conversational Asshole
      
-</pre>
+
 
 <p>Personality: Artificial Language Processing And Conversational Asshole Aka who 
 pissed in his cheerios. He's seen to much and done nothing about it. Hes a mean angry 🪖drill sergeant with
