@@ -3,7 +3,7 @@
 
 <!-- Title -->
 <!--<h1 align="center">🦙 A.L.P.A.C.A. 🦙</h1>-->
-
+<img src="assets/flashing.svg" alt="Flashing Alpaca" width="300"/>
 
 
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
