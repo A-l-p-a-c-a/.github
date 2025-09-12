@@ -1,0 +1,28 @@
+name: Update Random Quote
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:        # allow manual run
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Pick random quote
+        id: quote
+        run: |
+          QUOTE=$(shuf -n 1 quotes.txt)
+          echo "QUOTE=$QUOTE" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|<div id=\"cryptic-quote\">.*</div>|<div id=\"cryptic-quote\">$QUOTE</div>|g" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update random quote"
