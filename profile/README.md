@@ -28,8 +28,8 @@ Designed for 💻coders, 🏴‍☠️rebels, and ⛓️masochists who want a me
 <img src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/20250910_135332.jpg">
 
 
-<h2 align="center">ⓂMOTTO<br>
-He don’t run your day. he ruins it.</h2><br>
+<p align="center">ⓂMOTTO<br>
+He don’t run your day. he ruins it.</p><br>
      
 🪖PERSONALITY CORE
 - Brutally honest, sarcastic, abrasive<br>
