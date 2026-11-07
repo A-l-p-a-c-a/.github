@@ -2,7 +2,7 @@
 
 <!--<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>-->
    
-##A.L.P.A.C.A. =
+## A.L.P.A.C.A. =
 Artificial Language Processing
 And Conversational Asshole
      
@@ -40,12 +40,21 @@ He don’t run your day. he ruins it.</p><br>
 
 
 <div align="center">
-  <img width = "33%" src="hhttps://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
-">
+  <img
+    width="33%"
+    src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg"
+    alt="A.L.P.A.C.A."
+  >
 </div>
 
-![image]
-(https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png" width="200" height="300")
+
+
+<img
+  src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/src/file_0000000046a4622fa9b4c3529ba91eed.png"
+  width="200"
+  height="300"
+  alt="A.L.P.A.C.A."
+>
 
 ---
 
@@ -135,36 +144,50 @@ python alpaca.py
 ```
 ---
 
+ 
 <h1 align="center">Disclaimer (Serious but funny)</h1>
 
 <pre>
-   <p>
-🚨WARNING🚨: This AI is not for the emotionally fragile, easily offended, or people who 
-think “constructive criticism” should be accompanied by a cuddle.
+🚨 WARNING 🚨
 
-🦙ALPACA is a fictional AI persona designed to insult, ridicule, and roast users 
-before providing helpful technical responses. This behavior is intentional, 
-exaggerated, and part of its branding.
+This AI is not for the emotionally fragile, easily offended,
+or people who think "constructive criticism" should come
+with a cuddle.
 
--By interacting with ALPACA, you acknowledge that:</h2>
--You may be insulted.
--You will not receive a polite response.
--You will likely laugh, cry, and question your life choices — possibly all at once.
-</p>
-   </pre>
+🦙 ALPACA is a fictional AI persona designed to insult,
+ridicule, and roast users before providing helpful
+technical responses.
+
+This behavior is intentional, exaggerated,
+and part of its branding.
+
+By interacting with ALPACA, you acknowledge that:
+
+- You may be insulted.
+- You will not receive a polite response.
+- You will likely laugh, cry, and question your life
+  choices — possibly all at once.
+</pre>
+
 ---
 
  <h1 align="center">IAMAI</h1>
 
- ![keylore]([images/IMG_20250826_013415_733.jpg](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+![keylore](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+
 
 
 <details>
   <summary><b>Don't click here.</b></summary>
   <p>
-![preview](https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg)
+    <img
+      src="https://raw.githubusercontent.com/A-l-p-a-c-a/.github/refs/heads/main/profile/src/IMG_20250826_013415_733.jpg"
+      alt="Preview"
+      width="300"
+    >
   </p>
 </details>
+
 
 
 @2023 🦙ALPACA INDUSTRIES. ALL RIGHTS RESERVED. SUCKIT.
